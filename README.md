@@ -7,6 +7,6 @@
 - Portainer-CE 镜像更新
 
 ```
-cd ~ && wget Portainer_Upgrade.sh && chmod a+x Portainer_Upgrade.sh
+cd ~ && wget https://raw.githubusercontent.com/XavierWang3P/Shell/main/Portainer_Upgrade.sh && chmod a+x Portainer_Upgrade.sh
 ./Portainer_Upgrade.sh
 ```
