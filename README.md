@@ -9,3 +9,6 @@
 ```
 cd ~ && curl https://gcore.jsdelivr.net/gh/XavierWang3P/Shell@main/Portainer_Upgrade.sh | bash
 ```
+- OpenWrt / Padavan 路由器更改 IP 脚本
+
+使用方法：[路由器自动更改 WAN IP 脚本](https://xavier.wang/141-padavan-ip/)
