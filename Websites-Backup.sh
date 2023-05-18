@@ -8,14 +8,14 @@ Backup_Dir="/www/wwwbackup"
 COS_Backup_Dir="Sites-Backup"
 
 Websites_Dir="/www/wwwroot"
-Websites_Select=("网站域名")
+Websites_Select=("DirName_1 DirName_2")
 Nginx_Conf="/etc/nginx/sites-enabled"
 SSL_Cert="/etc/nginx/ssl"
 
 Database_Dir="/usr/local/mysql/bin/mysqldump"
-Database_Select=("数据库名")
-MySQL_Username='数据库用户名'
-MySQL_Password='数据库密码'
+Database_Select=("DatabaseName_1 DatabaseName_2")
+MySQL_Username='DatabaseUser'
+MySQL_Password='DatabasePassword'
 MySQL_Port="3306"
 MySQL_Host="localhost"
 
